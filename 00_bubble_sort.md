@@ -1,6 +1,6 @@
-## 📅 Discovered Date : 1956
+### 📅 Discovered Date : 1956
 
-## 📃 Detailed Description
+### 📃 Detailed Description
 Bubble Sort is one of the simplest sorting algorithms. It works by repeatedly stepping through the list to be sorted, comparing each pair of adjacent items, and swapping them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, indicating that the list is sorted.
 
 This algorithm gets its name because smaller elements "bubble" to the top of the list while larger elements sink to the bottom. Although Bubble Sort is easy to understand and implement, it is not suitable for large datasets as its average and worst-case time complexity is quite high.
@@ -16,7 +16,7 @@ This algorithm gets its name because smaller elements "bubble" to the top of the
 - **Time Complexity:** O(n^2) in the average and worst cases.
 - **Space Complexity:** O(1) as it is an in-place sorting algorithm.
 
-## 💻 Java Code Snippet
+### 💻 Java Code Snippet
 
 ```java
 public class BubbleSort {
