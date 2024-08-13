@@ -9,7 +9,8 @@ Merge the two sorted halves into a single sorted array.
 * 🔹 Complexity:
 Time Complexity: O(n log n).
 Space Complexity: O(n) due to the additional space required for merging.
-💻 Java Code Snippet
+
+#### 💻 Java Code Snippet
 
 ```
 public class MergeSort {
